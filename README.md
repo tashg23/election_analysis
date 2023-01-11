@@ -27,6 +27,7 @@ Colorado Board of Elections requires:
   - Diana DeGette: 272, 892 votes (73.8%) 
   - Raymon Doane: 11, 606 votes (3.1%) 
 - Diana DeGette won the Colorado election with a total of 272, 892 votes which was 73.8% of all votes. (see image below)
+
 ![vote_by_candidate](https://user-images.githubusercontent.com/113721712/211696762-a966c0c0-690d-4e2b-a66b-bee0aca6ca12.png)
 
 
