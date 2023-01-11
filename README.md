@@ -30,6 +30,7 @@ Colorado Board of Elections requires:
 
 ![vote_by_candidate](https://user-images.githubusercontent.com/113721712/211696762-a966c0c0-690d-4e2b-a66b-bee0aca6ca12.png)
 
+The full results of the analysis are in the 'analysis' folder as a text file. 
 
 ## Summary 
 This script can be reused for future elections, with minor tweaks. We would have to change the file names and path and potentially the locations of the county name and candidate name columns depending on the structure of any future data files. We would also have to change the name of the output text file. Additionally, depending on the cleanliness of future data files, we may have to add some cleansing steps. 
